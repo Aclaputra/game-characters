@@ -1,3 +1,4 @@
+7 Deadly Sins kloter 6 dumbways
 # 7DW Made by Acla Putra
 
 ![](Readme_img/7DWHomepage.JPG)
