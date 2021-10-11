@@ -21,5 +21,3 @@ Kita bisa menambahkan New Hero dan New Type Hero dengan sangat mudah, disini say
 - PHP (sebagai server-side no.4)
 - MySQL (sebagai database no.4)
 - JavaScript (digunakan dalam pengerjaan tes 1-3)
-
-Bismillah lolos...
